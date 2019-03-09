@@ -1,0 +1,175 @@
+/* Custom styles to override and expand UserStyle.css */
+
+body {margin:15px; background-color:#fff}
+
+td {vertical-align:top; font-family:arial, helvetica,sans-serif; font-size:12px; color:#333}
+td.middle{vertical-align:middle}
+td.bottom{vertical-align:bottom}
+
+.contenthead_print {font-family:arial, helvetica,sans-serif; font-size:16px; color:#990000; font-weight:bold}
+.contentsubhead_print {font-family:arial, helvetica,sans-serif; font-size:16px; color:#999999; font-weight:bold}
+.subhead {font-family:arial, helvetica,sans-serif; font-size:12px; color:#0C3591; font-weight:bold}
+.newsblue {font-family:arial, helvetica,sans-serif; font-size:11px; color:#3855A4; font-weight:bold}
+.blue {font-family:arial, helvetica,sans-serif; font-size:10px; color:#3855A4; font-weight:bold}
+.smallblue {font-family:arial, helvetica,sans-serif; font-size:10px; color:#3855A4}
+.smallcopy {font-family:arial, helvetica,sans-serif; font-size:10px; color:#333}
+
+a {font-family:arial, helvetica,sans-serif; color:#0C3591; text-decoration:underline}
+a:hover {font-family:arial, helvetica,sans-serif; color:#061441; text-decoration:underline}
+
+a.subnav{font-family:arial, helvetica,sans-serif; color:#0C3591; text-decoration:none}
+a.subnav:hover{font-family:arial, helvetica,sans-serif; color:#061441; text-decoration:none}
+a.subnavon{font-family:arial, helvetica,sans-serif; color:#061441; text-decoration:none}
+a.subnavon:hover{font-family:arial, helvetica,sans-serif; color:#061441; text-decoration:none}
+
+td.footer {vertical-align:middle; font-family:arial, helvetica,sans-serif; font-size:10px; color:#fff}
+a.footer {font-family:arial, helvetica,sans-serif; color:#fff; text-decoration:none}
+a.footer:hover {font-family:arial, helvetica,sans-serif; color:#fff; text-decoration:underline}
+
+form {font-family: verdana, helvetica; font-size:10px; color:#333}
+input {font-family: verdana, helvetica; font-size:10px; color:#333; border:1 #666 solid; background-color:#ffffff}
+.submit {font-family: verdana, helvetica; font-size:10px; font-weight: bold; color:#FFFFFF; border:1 #666 solid; background-color:#9C6500; }
+select {font-family: verdana, helvetica; font-size:10px; color:#333; border:1 #666 solid; background-color:#fff}
+textarea {font-family: verdana, helvetica; font-size:14px; color:#333; border:1 #666 solid; background-color:#fff}
+.noborder {border:0 #666 solid}
+.nicebtns {background-color: #ffffff; background-image: url(../images/but_fill.gif); background-position: bottom; background-repeat: repeat; border: none; color: #6F4800; cursor: pointer; font-size:16px; font-weight: bold; height: 22px;border-left: 1px solid #9C6500; border-right: 1px solid #9C6500; border-top: 1px solid #9C6500; border-bottom: 1px solid #9C6500;}
+/* The News application area margin and width. */
+
+.appAreaNews {
+	width: 535px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.appArea {
+	width: 100%;
+}
+/* BODY DEFINITION AND DIV ID STYLES */
+
+BODY
+	{
+	margin:0px;
+	border:0px;
+	background-color:#FFFFFF;
+	}
+
+
+A:hover
+	{
+	color:#CC9900;
+	}
+
+
+#topphoto
+	{
+	padding-top:0px;
+	padding-bottom:5px;
+	padding-right:0px;
+	padding-left:0px;
+	border:0px;
+	}
+
+
+#topstory
+	{
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:0px;
+	padding-left:0px;
+	border:0px;
+	}
+
+#emailsignup
+	{
+	position:absolute;
+	top:11px;
+	left:582px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+	border:0px;
+	z-index:2;
+	}
+
+#morecampaignnews
+	{
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-left:0px;
+	border:0px
+	}
+
+input
+	{
+	font-family:verdana,arial,helvetica,sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#666666
+	}
+
+
+
+
+/* TEXT CLASSES */
+
+H1 {font-family:arial,helvetica,sans-serif; font-size:20px; font-weight:bold; color:#000000;}
+
+H2 {font-family:arial,helvetica,sans-serif; font-size:17px; font-weight:bold; color:#000000;}
+
+H3 {font-family:arial,helvetica,sans-serif; font-size:15px; color:#000000;}
+
+.text {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:13px; color:#000000;}
+
+.blackheadline {font-family:arial,helvetica,sans-serif; font-size:20px; font-weight:bold; color:#000000;}
+
+rss_district_name {font-family:arial,helvetica,sans-serif; font-size:16px; font-weight:bold; color:#000000;}
+
+.rss_district_name {font-family:arial,helvetica,sans-serif; font-size:16px; font-weight:bold; color:#000000;}
+
+a.rss_district_name {font-family:arial,helvetica,sans-serif; font-size:16px; font-weight:bold; color:#000000;}
+
+a.rss_district_name:hover {font-family:arial,helvetica,sans-serif; font-size:16px; font-weight:bold; color:#CC9900;}
+
+a.rss_school_name {font-family:arial,helvetica,sans-serif; font-size:14px; color:#000000;}
+
+a.rss_school_name:hover {font-family:arial,helvetica,sans-serif; font-size:14px; color:#CC9900;}
+
+.reddate {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:10px; color:#CC0000; padding-bottom:0px; padding-top:0px;}
+
+.frontsmall {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:11px; line-height:14px; color:#000000;}
+
+.smallhead {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:11px; color:#000000; font-weight:bold; text-decoration:none;}
+
+.smallsubhead {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:11px; color:#666666;}
+
+.xsmallgray {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:10px; color:#999999;}
+
+.caption {font-family:verdana,arial,helvetica,sans-serif; font-size:10px; color:#666666; padding-left:5px; padding-right:5px; padding-top:0px; padding-bottom:0px;}
+
+.leftnav {font-family:arial,helvetica,sans-serif; font-size:10px; color:#DDDDDD; text-decoration:none;}
+
+a.leftnav {font-family:arial,helvetica,sans-serif; color:#DDDDDD; text-decoration:none;}
+
+a.leftnav:hover {font-family:arial,helvetica,sans-serif; color:#CC9900; text-decoration:none;}
+
+.rightbox {padding-left:20px; padding-right:10px; padding-bottom:10px; padding-top:0px; font-family:verdana,arial,helvetica,sans-serif; font-size:10px; color:#7B7B7B;}
+
+.rightboxlink {font-family:verdana,arial,helvetica,sans-serif; font-size:10px; color:#315593; font-weight:bold; text-decoration:none;}
+
+.copyright {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:8px; color:#CCCCCC;}
+
+.photo {border:1 #666 solid;padding=1}
+
+.bottomnav {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:10px; color:#DDDDDD; text-decoration:underline;}
+
+a.bottomnav {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:10px; color:#DDDDDD; text-decoration:underline;}
+
+a.bottomnav:hover {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:10px; color:#CC9900; text-decoration:underline;}
+
+p.fontminus1 {color:#000000;}
+
+a.votenettopnav {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:12px; color:#000000; text-decoration:none;}
+
+a.votenettopnav:hover {font-family:arial, helvetica,sans-serif,geneva,sans-serif; font-size:12px; color:#0000CC; text-decoration:none;}
